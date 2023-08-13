@@ -8,7 +8,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ilyos Shaydullayev",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
